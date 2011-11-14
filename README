@@ -1,0 +1,4 @@
+This is a simple controller transparency and style of Aero glass.
+Allows you to change the transparency from any active window by hotkey. You can also use the Aero Glass style to an arbitrary window, this is not always beautiful, sometimes terrible, but for some applications fit well (eg cmd).
+You can list the names of all the applications to which Glass will be applied automatically.
+Works as a Windows XP (but it will be impossible to apply the Glass), and Windows 7 and Vista.
