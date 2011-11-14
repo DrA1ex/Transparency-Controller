@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TransparencyControlEx.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TransparancyStep" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="UseExtendClientArea" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Names" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DecTranspKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Alt+Add</Value>
+    </Setting>
+    <Setting Name="IncTranspKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Alt+Subtract</Value>
+    </Setting>
+    <Setting Name="SwitchGlassKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Alt+Multiply</Value>
+    </Setting>
+    <Setting Name="ErrorSetUpHook" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Unable to set the hook.</Value>
+    </Setting>
+    <Setting Name="AppAlreadyRunning" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Application already running.</Value>
+    </Setting>
+    <Setting Name="PropertiesAction" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Properties</Value>
+    </Setting>
+    <Setting Name="ExitAction" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Exit</Value>
+    </Setting>
+    <Setting Name="HKPickerNothing" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Nothing</Value>
+    </Setting>
+    <Setting Name="HKPickerKeyIsUnknown" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Unknown key: </Value>
+    </Setting>
+    <Setting Name="PF_HotKeysGroupBox" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Hot keys</Value>
+    </Setting>
+    <Setting Name="PF_IncTransparencyHotKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Increment transparency</Value>
+    </Setting>
+    <Setting Name="PF_DecTransparencyHotKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Decrement transparency</Value>
+    </Setting>
+    <Setting Name="PF_SwitchGlass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Turn on\off Aero Glass</Value>
+    </Setting>
+    <Setting Name="PF_TransparencyStep" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Transarency changing step</Value>
+    </Setting>
+    <Setting Name="PF_UseExtendClientArea" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extend client area instead of blur</Value>
+    </Setting>
+    <Setting Name="PF_ProcessNamesCaption" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Apply Aero Glass to the following names of processes. (One line - one value)</Value>
+    </Setting>
+    <Setting Name="PF_Caption" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Properties</Value>
+    </Setting>
+    <Setting Name="UnableToRegisterHotKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Unable to register the hot key: </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

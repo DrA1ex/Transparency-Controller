@@ -1,0 +1,8 @@
+
+bin/Release/TransparancyControlEx.vshost.exe.config
+bin/Release/TransparancyControlEx.vshost.exe.manifest
+bin/Release/TransparencyControlEx.vshost.exe
+bin/Release/TransparencyControlEx.vshost.exe.config
+bin/Release/TransparencyControlEx.vshost.exe.manifest
+obj/*
+TransparencyControlEx.csproj.user
